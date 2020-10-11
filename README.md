@@ -1,6 +1,6 @@
 <div align="center">
 
-# :hamburger: **The Soup Loop**
+# :soup: **The Soup Loop**
 
 </div>
 
