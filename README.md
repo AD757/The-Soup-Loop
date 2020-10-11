@@ -9,14 +9,14 @@
 </div>
 
 
-**##Technology Used**
+## Technology Used
 
 
-- :stars: Frontend :stars:
+# Frontend 
 
 * React, React-redux ,Bootstrap-4, React router
 
- :stars: Backend :stars:
+# Backend 
 
 * Firebase authentication
 
