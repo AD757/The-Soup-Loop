@@ -11,7 +11,6 @@ A full-stack Soup delivery web app where anyone can order their favorite soup fr
 * React 
 * React-redux
 * Styled-Components 
-* Bootstrap-4
 * React router
 
 ## Backend 
