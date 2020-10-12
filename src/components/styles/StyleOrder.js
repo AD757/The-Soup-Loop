@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Order = styled.div`
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif; 
 	padding: 3rem 0;
 
 	p {

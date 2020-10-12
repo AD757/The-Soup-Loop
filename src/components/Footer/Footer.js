@@ -13,7 +13,7 @@ const Footer = () => {
 						<ul className="nav">
 							<li className="nav-item">Privacy Policy</li>
 							<li className="nav-item">Terms of Use</li>
-							<li className="nav-item">Pricing</li>
+							<li className="nav-item">Support</li>
 						</ul>
 					</div>
 				</div>

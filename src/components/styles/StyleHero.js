@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import bg from '../../Image/bg.png';
 
 export const HeroContainer = styled.div`
-	font-family: 'Bebas Neue', Cursive, Verdana, sans-serif;
+	font-family: 'Bebas Neue', 'Montserrat', sans-serif; 
 	background: url(${bg}) center/cover;
 	position: relative;
 	height: 500px;
@@ -21,7 +21,7 @@ export const HeroContainer = styled.div`
 					border-radius: 30px;
 				}
 				button {
-					font-family: 'Montserrat', sans-serif;
+					font-family: 'Montserrat', sans-serif; 
 					padding: 0.3rem 1.2rem;
 					background-color: #FCB140;
 					border-radius: 30px;

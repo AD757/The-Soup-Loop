@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const SingleProduct = styled.div`
 	background-color: #f5f5f5;
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif; 
 	padding: 0.3rem 0.8rem;
 	border-radius: 10px;
 	margin: 1.2rem 0;
@@ -69,7 +69,7 @@ export const SingleProduct = styled.div`
 `;
 
 export const CartSection = styled.div`
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif; 
 	.cart-content {
 		padding: 3rem 0;
 		.cart-items {

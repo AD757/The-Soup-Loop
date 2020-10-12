@@ -14,7 +14,7 @@ export const CardBox = styled.div`
 	}
 	.card-body {
 		height: 365px;
-		font-family: 'Montserrat', sans-serif;
+		font-family: 'Montserrat', sans-serif; 
 		transition: all 0.4s linear;
 		padding: 1.5rem;
 		img {

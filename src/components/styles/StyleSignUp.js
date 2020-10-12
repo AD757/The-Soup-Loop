@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const FormContainer = styled.div`
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif; 
 	padding: 6rem 0;
 	form {
 		img {
@@ -14,7 +14,7 @@ export const FormContainer = styled.div`
 			background-color: #f5f5f5;
 			border-color: transparent;
 			height: calc(2.5em + .75rem + 2px);
-			color: #bdbdbd;
+			color: #000000;
 			font-size: 0.85rem;
 			&:focus {
 				box-shadow: 0 0 0 transparent;

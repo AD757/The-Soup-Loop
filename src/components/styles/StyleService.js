@@ -2,17 +2,25 @@ import styled from 'styled-components';
 
 export const ServiceContainer = styled.div`
 	padding-bottom: 3rem;
-	font-family: 'Montserrat', sans-serif;
-	p {
-		color: #1d2225;
-		font-size: 0.9rem;
+	font-family: 'Montserrat', sans-serif; 
+	
+	img {
+		height: 150px;
+		margin-left: 70px;
 	}
+
+	p {
+			margin: 10px;
+			line-height: 1.6;
+		}
+		
 	.section-title {
 		width: 500px;
 		p {
 			margin: 1.4rem 0;
 			line-height: 1.6;
 		}
+		
 	}
 	.service-box {
 		.content {
@@ -20,18 +28,20 @@ export const ServiceContainer = styled.div`
 			.title {
 				margin-top: 1.4rem;
 				img {
-					height: 30px;
+					height: 25px;
+					margin-left: 40px;
 				}
 				h5 {
-					margin-left: 0.8rem;
+					margin-left: 15px;
 				}
 			}
 			p {
-				margin-top: 0.4rem;
-				margin-bottom: 0.4rem;
+				margin: 10px;
 			}
+			
 			button {
-				font-size: 0.85rem;
+				margin: 10px;
+				font-size: 1.0rem;
 				padding: 0;
 				color: #FCB140;
 				.arrow {

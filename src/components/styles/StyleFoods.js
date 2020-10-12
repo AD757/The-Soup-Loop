@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const SingleItem = styled.div`
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif; 
 	transition: all 0.4s linear;
 
 	.item-img {
@@ -21,7 +21,7 @@ export const SingleItem = styled.div`
 		position: relative;
 		margin-top: 1.5rem;
 		h2 {
-			font-family: 'Bebas Neue', cursive;
+			font-family: 'Montserrat', sans-serif; 
 			letter-spacing: 2px;
 			span {
 				position: absolute;
@@ -41,7 +41,7 @@ export const SingleItem = styled.div`
 			.fa-icon {
 				margin: 0 0.8rem;
 				cursor: pointer;
-				font-family: 'Montserrat', sans-serif;
+				font-family: 'Montserrat', sans-serif; 
 			}
 			.plus {
 				color: #FCB140;
@@ -77,7 +77,7 @@ export const SingleItem = styled.div`
 `;
 
 export const BtnStyle = styled.div`
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Montserrat', sans-serif; 
 
 	button {
 		font-size: 1.2rem;

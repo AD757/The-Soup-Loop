@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const ErrorDiv = styled.div`
-	font-family: 'Bebas Neue', cursive;
+	font-family: 'Montserrat', sans-serif; 
 	.row {
 		height: 100vh;
 	}

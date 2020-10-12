@@ -10,7 +10,7 @@ const services = [
 		id          : 3426,
 		title       : 'Fresh Soups',
 		description :
-			'For a memorable meal the quality of the service is something that guests often remember. Restaurant provides a physical good (prepared food), but also provides services in the form of ambience, the setting and clearing of the table, etc.',
+			'The Soup Loop focus on providing fresh ingredients and quality soups. Shop our delicious chef-made soups now!',
 		icon        : notification,
 		img         : freshsoup
 	},
@@ -18,7 +18,7 @@ const services = [
 		id          : 1234,
 		title       : 'Order Online',
 		description :
-			'For a memorable meal the quality of the service is something that guests often remember. Restaurant provides a physical good (prepared food), but also provides services in the form of ambience, the setting and clearing of the table, etc.',
+			'Fresh food directly from our kitchen to your home. Your soup is just one click away!',
 		icon        : icoDeliver,
 		img         : fastdelivery
 	},
@@ -26,7 +26,7 @@ const services = [
 		id          : 2134,
 		title       : 'Door Delivery',
 		description :
-			'For a memorable meal the quality of the service is something that guests often remember. Restaurant provides a physical good (prepared food), but also provides services in the form of ambience, the setting and clearing of the table, etc.',
+			'Fresh chef-made soups, delivered safely to your door. Now offering no-contact delivery.',
 		icon        : home,
 		img         : homeDelivery
 	}

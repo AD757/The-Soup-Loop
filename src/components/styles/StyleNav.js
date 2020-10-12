@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Items = styled.nav`
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif; 
 	padding: 1rem 0;
 	.logo {
 		width: 150px;
