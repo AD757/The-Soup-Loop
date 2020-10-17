@@ -2,7 +2,7 @@ import React from 'react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { UserDiv } from '../components/styles/StyleUser';
-import icon from '../Image/ICON/user.png';
+import icon from '../Image/Icons/user.png';
 
 const User = () => {
 	const cartInfo = useSelector((state) => state.cart);
