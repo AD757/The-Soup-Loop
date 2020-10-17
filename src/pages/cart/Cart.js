@@ -72,7 +72,7 @@ const Cart = () => {
 			<div className="row justify-content-around cart-content">
 				<div className="col-lg-5 form-info">
 					<form onSubmit={handleForm}>
-						<h4>Edit Delivery Details</h4>
+						<h4>Delivery Details</h4>
 						<hr />
 						<div className="form-group">
 						</div>
