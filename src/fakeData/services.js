@@ -1,8 +1,8 @@
-import icoDeliver from '../Image/ICON/deliver.png';
+import icoDeliver from '../Image/Icons/deliver.png';
 import fastdelivery from '../Image/img/fastdelivery.png';
-import notification from '../Image/ICON/notification.png';
+import notification from '../Image/Icons/notification.png';
 import freshsoup from '../Image/img/freshsoup.png';
-import home from '../Image/ICON/home.png';
+import home from '../Image/Icons/home.png';
 import homeDelivery from '../Image/img/home-delivery.png';
 
 const services = [

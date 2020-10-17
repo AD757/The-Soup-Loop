@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const UserDiv = styled.div`
-	font-family: 'Bebas Neue','Montserrat', sans-serif; 
+	font-family: 'Montserrat', sans-serif; 
 	.profile {
 		padding: 3rem 0;
 	}

@@ -14,8 +14,6 @@ const Cart = () => {
 	const [ isDelivery, setIsDelivery ] = useState(false);
 	const [ delivery, setDelivery ] = useState({
 		type        : '',
-		road        : '',
-		flat        : '',
 		name        : '',
 		instruction : ''
 	});
@@ -35,8 +33,7 @@ const Cart = () => {
 	};
 	const [ userPaymentInfo, setUserPaymentInfo ] = useState({
 		id          : '',
-		roadAddress : '',
-		flatAddress : ''
+		roadAddress : ''
 	});
 
 	const handleForm = (e) => {
@@ -46,7 +43,6 @@ const Cart = () => {
 		setUserPaymentInfo({
 			...userPaymentInfo,
 			roadAddress : delivery.road,
-			flatAddress : delivery.flat
 		});
 	};
 
@@ -79,15 +75,6 @@ const Cart = () => {
 						<h4>Edit Delivery Details</h4>
 						<hr />
 						<div className="form-group">
-							<input
-								type="text"
-								name="type"
-								className="form-control"
-								placeholder="Delivery to Door"
-								onChange={handleInput}
-								value={delivery.type}
-								required
-							/>
 						</div>
 						<div className="form-group">
 							<input
@@ -97,17 +84,6 @@ const Cart = () => {
 								placeholder="Address"
 								onChange={handleInput}
 								value={delivery.road}
-								required
-							/>
-						</div>
-						<div className="form-group">
-							<input
-								type="text"
-								name="flat"
-								className="form-control"
-								placeholder="Flat, Suit or Floor"
-								onChange={handleInput}
-								value={delivery.flat}
 								required
 							/>
 						</div>

@@ -35,12 +35,12 @@ const CardForm = (props) => {
 	return (
 		<div>
 			<form onSubmit={handleSubmit}>
-				<CardElement />
+				<CardElement /> 
 				<button type="submit" disabled={!stripe}>
 					Pay 
 				</button>
 				<br/>
-				<p>Test Card <br/> 5396974790115825 - 01/21 - 000</p>
+				Test Card <br/> <p>5396974790115825 - 01/21 - 000</p>
 			</form>
 			{errors && <p>{errors}</p>}
 			{success && <p>Thank you for completing your transaction</p>}
