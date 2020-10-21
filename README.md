@@ -2,6 +2,10 @@
 
 A full-stack Soup delivery web app where anyone can order their favorite soup from the menu and have options for vegetarian, vegan and regular soups. Users can order soups and pay online to receive the delivery while being home.
 
+# Prototype
+[Figma](https://www.figma.com/file/3ahSbwfsHFP0ZpDHDSXkoV/Soup-Theme?node-id=106%3A77)
+
+
 # Demo
 ![](demo.gif)
 
@@ -9,7 +13,7 @@ A full-stack Soup delivery web app where anyone can order their favorite soup fr
 
 ## Frontend 
 * React 
-* React-redux
+* React-Redux
 * Styled-Components 
 * React router
 
