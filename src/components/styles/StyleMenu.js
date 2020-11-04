@@ -6,7 +6,7 @@ export const CardBox = styled.div`
 	.card {
 		border: 1px solid transparent;
 		transition: all 0.3s linear;
-		transform: scale(0.93);
+		transform: scale(0.90);
 		&:hover {
 			box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
 			transform: scale(1);
@@ -18,8 +18,8 @@ export const CardBox = styled.div`
 		transition: all 0.4s linear;
 		padding: 1.5rem;
 		img {
-			height: 200px;
-			width: 200px;
+			height: 160px;
+			width: 160px;
 			object-fit: cover;
 			margin-bottom: 1rem;
 		}

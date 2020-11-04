@@ -5,8 +5,8 @@ export const ServiceContainer = styled.div`
 	font-family: 'Montserrat', sans-serif; 
 	
 	img {
-		height: 150px;
-		margin-left: 70px;
+		height: 140px;
+		margin-left: 100px;
 	}
 
 	p {
@@ -22,6 +22,7 @@ export const ServiceContainer = styled.div`
 		}
 		
 	}
+	
 	.service-box {
 		.content {
 			padding: 0.4rem 1rem;

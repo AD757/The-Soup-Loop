@@ -5,8 +5,8 @@ export const SingleItem = styled.div`
 	transition: all 0.4s linear;
 
 	.item-img {
-		height: 440px;
-		width: 440px;
+		height: 250px;
+		width: 250px;
 		object-fit: cover;
 	}
 	h1 {
